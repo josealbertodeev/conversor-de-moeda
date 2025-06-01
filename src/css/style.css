@@ -51,8 +51,7 @@ h1 {
     flex: 1;
 }
 
-input,
-select {
+input,select {
     width: 100%;
     padding: 15px;
     border: 2px solid #e0e0e0;
@@ -61,8 +60,7 @@ select {
     transition: all 0.3s ease;
 }
 
-input:focus,
-select:focus {
+input:focus,select:focus {
     outline: none;
     border-color: #667eea;
     background: #fff;

@@ -10,7 +10,6 @@ const error = document.querySelector('.error');
 // |Endereço da API|
 const API_URL = `https://api.exchangerate-api.com/v4/latest/${fromCurrency.value}`;
 
-
 async function converterMoney() {
 
     loading.style.display = 'block';
